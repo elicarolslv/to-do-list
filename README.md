@@ -5,7 +5,7 @@
 <h2 align="center">Descrição</h2>
 <p>Neste projeto, vamos desenvolver uma aplicação de lista de tarefas simples. Usaremos HTML para estruturar a página, CSS para estilizar e melhorar a aparência visual, e JavaScript para adicionar funcionalidades interativas, como adicionar e excluir tarefas.</p>
 
-<h2 align="center">Funcionalidades</h2></p>
+<h2 align="center">Funcionalidades</h2>
 Adicionar tarefas com título e conteúdo.<br>
 Categorizar tarefas por tags.<br>
 Gerar cores diferentes às tarefas.<br>
