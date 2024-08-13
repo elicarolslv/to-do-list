@@ -17,4 +17,4 @@ CSS: Estilização e melhoria da aparência visual.<br>
 JavaScript: Funcionalidades interativas.<br>
 
 <H2 align="center">Créditos</H2>
-Este projeto foi criado com a ajuda de um curso rápido da Code Academy.
+Este projeto foi criado com a ajuda de um curso rápido da Codi Academy.
